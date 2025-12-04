@@ -13,7 +13,7 @@ Welcome to my minimalist template for Mango ricing, give a look on what i did:
 
 - Default Browser: [Google Chrome](https://flathub.org/en/apps/com.google.Chrome)
 - Default Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
-- Default file manager: Nautilus2
+- Default file manager: Nautilus
 
 > [!NOTE]
 > This dotfiles are using [sunsetr](https://github.com/psi4j/sunsetr) to filter blue light
